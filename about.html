@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>О портале | CS2 Portal</title>
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body class="auth-layout">
+    <header>
+        <a class="logo" href="index.html" aria-label="На главную">
+            <div class="logo__icon">
+                <img src="logos/site-mark.svg" alt="" aria-hidden="true" />
+            </div>
+            <span>CS2 PORTAL</span>
+        </a>
+
+        <nav id="nav">
+            <a href="index.html">Главная</a>
+            <a href="ratings.html">Рейтинги</a>
+            <a href="tournaments.html">Турниры</a>
+            <a href="teams.html">Команды</a>
+            <a href="about.html" class="active">О портале</a>
+            <a href="contacts.html">Контакты</a>
+        </nav>
+
+        <div class="header-right">
+            <div class="profile-menu">
+                <button class="user-btn" id="profile-btn" aria-label="Профиль">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                        <circle cx="12" cy="7" r="4"/>
+                    </svg>
+                </button>
+                <div class="profile-dropdown" id="profile-dropdown">
+                    <a href="login.html">Войти</a>
+                    <a href="register.html">Регистрация</a>
+                </div>
+            </div>
+            <button class="burger" id="burger" aria-label="Меню">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <main class="about-page">
+        <section class="about-intro">
+            <h1>О портале</h1>
+            <p>Курсовой проект по веб-разработке — CS2 Portal</p>
+        </section>
+
+        <section class="about-grid">
+            <div class="about-main">
+                <article class="about-card">
+                    <h2>О проекте</h2>
+                    <p><b>CS2 Portal</b> — это образовательный веб-проект, разработанный в рамках курсовой работы по дисциплине «Компьютерные языки разметки».</p>
+                    <p>Портал представляет собой информационный сайт, посвященный киберспортивной дисциплине Counter-Strike 2. На сайте собраны рейтинги команд, расписание турниров и базовые сведения о сцене.</p>
+                    <p>Дизайн выполнен в едином фирменном стиле CS2 Portal: темный фон, оранжевые акценты и строгая карточная компоновка интерфейса.</p>
+                </article>
+
+                <article class="about-card">
+                    <h2>Страницы проекта</h2>
+                    <ul class="about-links-list">
+                        <li><a href="index.html">Главная</a></li>
+                        <li><a href="ratings.html">Рейтинги</a></li>
+                        <li><a href="tournaments.html">Турниры</a></li>
+                        <li><a href="teams.html">Команды</a></li>
+                        <li><a href="contacts.html">Контакты</a></li>
+                        <li><a href="login.html">Вход / Регистрация</a></li>
+                    </ul>
+                </article>
+            </div>
+
+            <aside class="about-side">
+                <article class="about-card about-author">
+                    <img src="/images/avatar.jpg" alt="Фото автора" />
+                    <h3>Еремейчик Родион Павлович</h3>
+                    <p class="about-author-role">Автор проекта</p>
+                    <div class="about-author-meta">
+                        <p><span>Университет</span><b>БГТУ</b></p>
+                        <p><span>Дисциплина</span><b>Компьютерные языки разметки</b></p>
+                        <p><span>Год</span><b>2026</b></p>
+                    </div>
+                </article>
+
+                <article class="about-card">
+                    <h2>Источники данных</h2>
+                    <div class="about-sources">
+                        <a href="https://www.hltv.org" target="_blank" rel="noopener noreferrer">HLTV.org</a>
+                        <a href="https://liquipedia.net/counterstrike" target="_blank" rel="noopener noreferrer">Liquipedia</a>
+                    </div>
+                </article>
+            </aside>
+        </section>
+    </main>
+
+    <footer>
+        <div>
+            <div class="logo">
+                <div class="logo__icon">
+                    <a href="index.html" aria-label="На главную">
+                        <img src="logos/site-mark.svg" alt="" aria-hidden="true" />
+                    </a>
+                </div>
+                <span>© 2026 CS2 Portal • Курсовой проект • <a href="#">Еремейчик Родион Павлович</a></span>
+            </div>
+        </div>
+        <nav>
+            <a href="https://github.com/hataB1ch">GitHub</a>
+            <a href="https://hltv.org">HLTV.org</a>
+            <a href="https://liquipedia.net/counterstrike/">Liquipedia</a>
+            <a href="contacts.html">Контакты</a>
+            <a href="about.html">О портале</a>
+        </nav>
+    </footer>
+
+    <script src="script/script.js"></script>
+</body>
+</html>

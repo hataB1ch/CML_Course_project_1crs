@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+  <team id="vitality">
+    <name>Vitality</name>
+    <region>EU</region>
+    <logo>team-vitality.png</logo>
+    <players>
+      <player>apEX</player>
+      <player>ropz</player>
+      <player>ZywOo</player>
+      <player>flameZ</player>
+      <player>mezii</player>
+    </players>
+    <coach>XTQZZZ</coach>
+  </team>
+
+  <team id="navi">
+    <name>Natus Vincere</name>
+    <region>EU</region>
+    <logo>team-navi.png</logo>
+    <players>
+      <player>Aleksib</player>
+      <player>makazze</player>
+      <player>iM</player>
+      <player>w0nderful</player>
+      <player>b1t</player>
+    </players>
+    <coach>B1ad3</coach>
+  </team>
+
+  <team id="furia">
+    <name>FURIA</name>
+    <region>AM</region>
+    <logo>team-furia.png</logo>
+    <players>
+      <player>FalleN</player>
+      <player>yuurih</player>
+      <player>YEKINDAR</player>
+      <player>KSCERATO</player>
+      <player>molodoy</player>
+    </players>
+    <coach>sidde</coach>
+  </team>
+
+  <team id="spirit">
+    <name>Spirit</name>
+    <region>EU</region>
+    <logo>team-spirit.png</logo>
+    <players>
+      <player>sh1ro</player>
+      <player>magixx</player>
+      <player>tN1R</player>
+      <player>zont1x</player>
+      <player>donk</player>
+    </players>
+    <coach>hally</coach>
+  </team>
+
+  <team id="aurora">
+    <name>Aurora</name>
+    <region>EU</region>
+    <logo>team-aurora.png</logo>
+    <players>
+      <player>MAJ3R</player>
+      <player>XANTARES</player>
+      <player>woxic</player>
+      <player>soulfly</player>
+      <player>Wicadia</player>
+    </players>
+    <coach>Fabre</coach>
+  </team>
+
+  <team id="falcons">
+    <name>Falcons</name>
+    <region>EU</region>
+    <logo>team-falcons.png</logo>
+    <players>
+      <player>karrigan</player>
+      <player>NiKo</player>
+      <player>TeSeS</player>
+      <player>m0NESY</player>
+      <player>kyousuke</player>
+    </players>
+    <coach>zonic</coach>
+  </team>
+
+  <team id="mongolz">
+    <name>The MongolZ</name>
+    <region>AS</region>
+    <logo>team-mongolz.png</logo>
+    <players>
+      <player>cobrazera</player>
+      <player>bLitz</player>
+      <player>mzinho</player>
+      <player>Techno</player>
+      <player>910</player>
+    </players>
+    <coach>maaRaa</coach>
+  </team>
+
+  <team id="parivision">
+    <name>PARIVISION</name>
+    <region>EU</region>
+    <logo>team-parivision.png</logo>
+    <players>
+      <player>Jame</player>
+      <player>BELCHONOKK</player>
+      <player>xiELO</player>
+      <player>nota</player>
+      <player>zweih</player>
+    </players>
+    <coach>dastan</coach>
+  </team>
+
+  <team id="fut">
+    <name>FUT</name>
+    <region>EU</region>
+    <logo>team-fut.png</logo>
+    <players>
+      <player>dem0n</player>
+      <player>lauNX</player>
+      <player>Krabeni</player>
+      <player>cmtry</player>
+      <player>dziugss</player>
+    </players>
+    <coach>coolio</coach>
+  </team>
+
+  <team id="astralis">
+    <name>Astralis</name>
+    <region>EU</region>
+    <logo>team-astralis.png</logo>
+    <players>
+      <player>HooXi</player>
+      <player>phzy</player>
+      <player>jabbi</player>
+      <player>Staehr</player>
+      <player>ryu</player>
+    </players>
+    <coach>ruggah</coach>
+  </team>
+
+  <team id="mouz">
+    <name>MOUZ</name>
+    <region>EU</region>
+    <logo>team-mouz.png</logo>
+    <players>
+      <player>Brollan</player>
+      <player>torzsi</player>
+      <player>Spinx</player>
+      <player>Jimpphat</player>
+      <player>xertioN</player>
+    </players>
+    <coach>sycrone</coach>
+  </team>
+</teams>

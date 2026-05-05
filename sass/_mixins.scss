@@ -1,0 +1,37 @@
+@use 'variables' as v;
+
+@function rgba-hex($hex, $alpha) {
+  @return rgba($hex, $alpha);
+}
+
+@mixin mq($max) {
+  @media (max-width: $max) {
+    @content;
+  }
+}
+
+@mixin container($pad: 2rem) {
+  max-width: v.$container;
+  margin: 0 auto;
+  padding: $pad;
+}
+
+@mixin card($radius: v.$r-10) {
+  background-color: v.$c-surface;
+  border: 1px solid v.$c-border;
+  border-radius: $radius;
+}
+
+@mixin focus-border($color: v.$c-accent) {
+  &:focus {
+    outline: none;
+    border-color: $color;
+  }
+}
+
+@mixin hover-border($color: v.$c-accent) {
+  &:hover {
+    border-color: $color;
+  }
+}
+

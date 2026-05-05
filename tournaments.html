@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Турниры | CS2 Portal</title>
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body class="auth-layout">
+    <header>
+        <a class="logo" href="index.html" aria-label="На главную">
+            <div class="logo__icon">
+                <img src="logos/site-mark.svg" alt="" aria-hidden="true" />
+            </div>
+            <span>CS2 PORTAL</span>
+        </a>
+
+        <nav id="nav">
+            <a href="index.html">Главная</a>
+            <a href="ratings.html">Рейтинги</a>
+            <a href="tournaments.html" class="active">Турниры</a>
+            <a href="teams.html">Команды</a>
+            <a href="about.html">О портале</a>
+            <a href="contacts.html">Контакты</a>
+        </nav>
+
+        <div class="header-right">
+            <div class="profile-menu">
+                <button class="user-btn" id="profile-btn" aria-label="Профиль">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                        <circle cx="12" cy="7" r="4"/>
+                    </svg>
+                </button>
+                <div class="profile-dropdown" id="profile-dropdown">
+                    <a href="login.html">Войти</a>
+                    <a href="register.html">Регистрация</a>
+                </div>
+            </div>
+            <button class="burger" id="burger" aria-label="Меню">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <main class="ratings-page">
+        <section class="tournaments-intro">
+            <h1>Турниры</h1>
+            <p>Календарь крупных событий CS2</p>
+        </section>
+
+        <div id="tournaments-root"></div>
+    </main>
+
+    <footer>
+        <div>
+            <div class="logo">
+                <div class="logo__icon">
+                    <a href="index.html" aria-label="На главную">
+                        <img src="logos/site-mark.svg" alt="" aria-hidden="true" />
+                    </a>
+                </div>
+                <span>© 2026 CS2 Portal • Курсовой проект • <a href="#">Еремейчик Родион Павлович</a></span>
+            </div>
+        </div>
+        <nav>
+            <a href="https://github.com/hataB1ch">GitHub</a>
+            <a href="https://hltv.org">HLTV.org</a>
+            <a href="https://liquipedia.net/counterstrike/">Liquipedia</a>
+            <a href="contacts.html">Контакты</a>
+            <a href="about.html">О портале</a>
+        </nav>
+    </footer>
+
+    <script src="script/script.js"></script>
+    <script src="script/tournaments.js"></script>
+</body>
+</html>

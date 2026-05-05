@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rankings>
+  <last_updated>2026-02-11</last_updated>
+
+  <!-- HLTV Ranking -->
+  <hltv_ranking>
+    <team rank="1" team_id="vitality">
+      <points>1000</points>
+    </team>
+
+    <team rank="2" team_id="navi">
+      <points>522</points>
+    </team>
+
+    <team rank="3" team_id="furia">
+      <points>468</points>
+    </team>
+
+    <team rank="4" team_id="spirit">
+      <points>403</points>
+    </team>
+
+    <team rank="5" team_id="aurora">
+      <points>395</points>
+    </team>
+
+    <team rank="6" team_id="falcons">
+      <points>386</points>
+    </team>
+
+    <team rank="7" team_id="mongolz">
+      <points>316</points>
+    </team>
+
+    <team rank="8" team_id="parivision">
+      <points>308</points>
+    </team>
+
+    <team rank="9" team_id="fut">
+      <points>249</points>
+    </team>
+
+    <team rank="10" team_id="astralis">
+      <points>247</points>
+    </team>
+  </hltv_ranking>
+
+  <!-- Valve Ranking -->
+  <valve_ranking>
+    <team rank="1" team_id="vitality">
+      <points>2076</points>
+    </team>
+
+    <team rank="2" team_id="navi">
+      <points>1898</points>
+    </team>
+
+    <team rank="3" team_id="falcons">
+      <points>1833</points>
+    </team>
+
+    <team rank="4" team_id="astralis">
+      <points>1832</points>
+    </team>
+
+    <team rank="5" team_id="spirit">
+      <points>1819</points>
+    </team>
+
+    <team rank="6" team_id="fut">
+      <points>1817</points>
+    </team>
+
+    <team rank="7" team_id="mongolz">
+      <points>1801</points>
+    </team>
+
+    <team rank="8" team_id="parivision">
+      <points>1758</points>
+    </team>
+
+    <team rank="9" team_id="aurora">
+      <points>1749</points>
+    </team>
+
+    <team rank="10" team_id="mouz">
+      <points>1744</points>
+    </team>
+  </valve_ranking>
+</rankings>
+

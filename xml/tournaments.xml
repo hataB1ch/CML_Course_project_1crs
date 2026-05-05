@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournaments>
+
+  <year value="2025">
+    <tournament id="t1" major="true">
+      <name>StarLadder Budapest Major 2025</name>
+      <organizer>StarLadder</organizer>
+      <location>Budapest, Hungary</location>
+      <dates>
+        <start>2025-12-04</start>
+        <end>2025-12-14</end>
+      </dates>
+      <prize_pool currency="USD">1.170.000</prize_pool>
+      <teams_count>16</teams_count>
+      <winner>Vitality</winner>
+      <mvp>ZywOo</mvp>
+    </tournament>
+  </year>
+
+  <year value="2026">
+    <tournament id="t2" major="false">
+      <name>BLAST Bounty 2026 S1 Finals</name>
+      <organizer>BLAST</organizer>
+      <location>Malta</location>
+      <dates>
+        <start>2026-01-22</start>
+        <end>2026-01-25</end>
+      </dates>
+      <prize_pool currency="USD">772.500</prize_pool>
+      <teams_count>8</teams_count>
+      <winner>PARIVISION</winner>
+      <mvp>NiKo</mvp>
+    </tournament>
+
+    <tournament id="t3" major="false">
+      <name>IEM Krakow 2026</name>
+      <organizer>ESL</organizer>
+      <location>Krakow, Poland</location>
+      <dates>
+        <start>2026-01-31</start>
+        <end>2026-02-08</end>
+      </dates>
+      <prize_pool currency="USD">1.222.000</prize_pool>
+      <teams_count>16</teams_count>
+      <winner>Vitality</winner>
+      <mvp>ZywOo</mvp>
+    </tournament>
+
+    <tournament id="t4" major="false">
+      <name>PGL Cluj-Napoca 2026</name>
+      <organizer>PGL</organizer>
+      <location>Cluj-Napoca, Romania</location>
+      <dates>
+        <start>2026-02-14</start>
+        <end>2026-02-22</end>
+      </dates>
+      <prize_pool currency="USD">1.250.000</prize_pool>
+      <teams_count>16</teams_count>
+      <winner>Vitality</winner>
+      <mvp>ZywOo</mvp>
+    </tournament>
+
+    <tournament id="t5" major="false">
+      <name>ESL Pro League Season 23 Finals</name>
+      <organizer>ESL</organizer>
+      <location>Stockholm, Sweden</location>
+      <dates>
+        <start>2026-03-13</start>
+        <end>2026-03-15</end>
+      </dates>
+      <prize_pool currency="USD">776.000</prize_pool>
+      <teams_count>8</teams_count>
+      <winner>Natus Vincere</winner>
+      <mvp>makazze</mvp>
+    </tournament>
+
+    <tournament id="t6" major="false">
+      <name>PGL Bucharest 2026</name>
+      <organizer>PGL</organizer>
+      <location>Bucharest, Romania</location>
+      <dates>
+        <start>2026-04-04</start>
+        <end>2026-04-11</end>
+      </dates>
+      <prize_pool currency="USD">1.250.000</prize_pool>
+      <teams_count>16</teams_count>
+      <winner>FUT</winner>
+      <mvp>cmtry</mvp>
+    </tournament>
+
+    <tournament id="t7" major="false">
+      <name>IEM Rio 2026</name>
+      <organizer>ESL</organizer>
+      <location>Rio De Janeiro, Brasil</location>
+      <dates>
+        <start>2026-04-13</start>
+        <end>2026-04-19</end>
+      </dates>
+      <prize_pool currency="USD">1.000.000</prize_pool>
+      <teams_count>16</teams_count>
+      <winner>Vitality</winner>
+      <mvp>ZywOo</mvp>
+    </tournament>
+
+    <tournament id="t8" major="false">
+      <name>BLAST Rivals 2026 Season 1</name>
+      <organizer>BLAST</organizer>
+      <location>Fort Worth, TX, US</location>
+      <dates>
+        <start>2026-04-29</start>
+        <end>2026-05-03</end>
+      </dates>
+      <prize_pool currency="USD">1.000.000</prize_pool>
+      <teams_count>8</teams_count>
+    </tournament>
+
+    <tournament id="t9" major="false">
+      <name>PGL Astana 2026</name>
+      <organizer>PGL</organizer>
+      <location>Astana, Kazakhstan</location>
+      <dates>
+        <start>2026-05-09</start>
+        <end>2026-05-17</end>
+      </dates>
+      <prize_pool currency="USD">1.600.000</prize_pool>
+      <teams_count>16</teams_count>
+    </tournament>
+
+    <tournament id="t10" major="false">
+      <name>IEM Atlanta 2026</name>
+      <organizer>ESL</organizer>
+      <location>Atlanta, Georgia, USA</location>
+      <dates>
+        <start>2026-05-11</start>
+        <end>2026-05-17</end>
+      </dates>
+      <prize_pool currency="USD">1.000.000</prize_pool>
+      <teams_count>16</teams_count>
+    </tournament>
+
+    <tournament id="t11" major="false">
+      <name>CS Asia Championships 2026</name>
+      <organizer>Perfect World</organizer>
+      <location>Shanghai, China</location>
+      <dates>
+        <start>2026-05-20</start>
+        <end>2026-05-24</end>
+      </dates>
+      <prize_pool currency="USD">1.000.000</prize_pool>
+      <teams_count>16</teams_count>
+    </tournament>
+
+    <tournament id="t12" major="true">
+      <name>IEM Cologne Major 2026</name>
+      <organizer>ESL</organizer>
+      <location>Cologne, Germany</location>
+      <dates>
+        <start>2026-06-11</start>
+        <end>2026-06-21</end>
+      </dates>
+      <prize_pool currency="USD">1.170.000</prize_pool>
+      <teams_count>16</teams_count>
+    </tournament>
+  </year>
+
+</tournaments>
+
